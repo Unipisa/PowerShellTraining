@@ -4,6 +4,8 @@ $n = 2
 Write-Host "La variable n contiene $n"
 Write-Host 'La variable n contiene $n'
 
+Write-Host "Questa è una stringa con espressione $(2+2)"
+
 $s = "Una stringa con HTML
 
 <div id=""ciao""></div>
@@ -36,3 +38,5 @@ Get-Pippo -n 2
 Get-Disk | select FriendlyName, SerialNumber | Out-GridView
 
 Invoke-WebRequest http://www.unipi.it
+
+Get-NetAdapter
