@@ -1,4 +1,4 @@
-# Per installare il modulo bisogna prima abilitare l'esecuzione di script tramite policy con:
+# Per installare il modulo può essere necessario abilitare l'esecuzione di script tramite policy con:
 # Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 # Vedi: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1
 # Install-Module MicrosoftTeams
