@@ -40,3 +40,6 @@ Get-Disk | select FriendlyName, SerialNumber | Out-GridView
 Invoke-WebRequest http://www.unipi.it
 
 Get-NetAdapter
+
+Get-PackageProvider
+
