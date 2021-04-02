@@ -1,3 +1,5 @@
+# Doc https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1
+
 $a = "Sono una stringa"
 $n = 2
 
