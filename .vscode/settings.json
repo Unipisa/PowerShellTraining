@@ -36,6 +36,7 @@
         "msteams",
         "mybinder",
         "netinteractive",
+        "NETXMS",
         "NTFS",
         "posix",
         "pssession",
@@ -45,6 +46,7 @@
         "renderbody",
         "sandboxing",
         "sconfig",
+        "smnp",
         "spwd",
         "syscall",
         "tabellizzate",
@@ -55,6 +57,7 @@
         "unmarshalling",
         "versionamento",
         "winforms",
+        "wlan",
         "workdir",
         "wwwroot"
     ]
